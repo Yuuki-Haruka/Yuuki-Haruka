@@ -1,6 +1,7 @@
 # About Me:
-I am a data science student at Institute of Technology of Cambodia. I have passion for transforming raw data into meaningful insight. I also work as a Mathematical Teacher at Mekun Academy which helps me explain complex ideas clearly and solve problems logically.
-
+I am a Data Science student at the Institute of Technology of Cambodia with a passion for transforming raw data into meaningful insights. I enjoy working with data, building machine learning models, and creating clear visualisations to support data-driven decisions.
+I also work as a Mathematics Teacher at Mekun Academy, where I develop my ability to explain complex concepts clearly, think logically, and solve problems effectively.
+Currently, I am focused on developing my skills in Data Science, Machine Learning, Data Visualisation, and Analytics.
 
 ## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vouchleang.tan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vouchleang-tan-29a491376) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanvouchleang@gmail.com) 
