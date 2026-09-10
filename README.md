@@ -19,6 +19,10 @@ Currently, I am focused on developing my skills in:
 - Statistical Analysis
 - Database Management
 
+### Portfolio
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yuuki-haruka.github.io/Vouchleang-portfolio)
+
 ## Socials
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/Yuuki-Haruka)
